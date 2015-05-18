@@ -6,7 +6,7 @@
 - edit the plist file with the (absolute) path to the python file
 - in terminal, run:
 ```
-    pip install pylast
+    sudo pip install pylast
     launchctl load ~/Library/LaunchAgents/com.kevinhogeland.swinsianscrobbler.plist
 ```
 - that's it, just start listening :~)
