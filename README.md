@@ -11,3 +11,5 @@
 ```
 - that's it, just start listening :~)
 - to remove it, either run the above command with "unload" instead or delete the plist/py files
+
+scrobbling (but not "now listening") songs with unicode characters seems to be broken using python 2.7 - maybe try 3.x
